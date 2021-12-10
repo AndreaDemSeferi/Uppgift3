@@ -54,6 +54,3 @@ ending.addEventListener("click", () => {
       "Dina kunkspaer om Gud är svaga du hade " + result + "/7";
   }
 });
-
-
-
